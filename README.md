@@ -1,4 +1,4 @@
-<div align="center">
+COPY init-unleash.sql /docker-entrypoint-initdb.d/init-unleash.sql<div align="center">
 
 <a href="https://getunleash.io" title="Unleash - Empowering developers to release with confidence">
     <img src="./.github/github_header_opaque_landscape.svg" alt="Visit the Unleash website">
